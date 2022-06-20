@@ -1,5 +1,5 @@
 public class Ejercicio_2 {
-    static int MCD (int a, int b){
+    public static int MCD (int a, int b){
         if(a==0 || b==0){
             return 0;
         }
